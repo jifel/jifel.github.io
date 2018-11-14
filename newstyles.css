@@ -1,31 +1,40 @@
-<!DOCTYPE html>
-<<html lang="en">
+.font-weight-bold{
+font-size: 20px;
+font-style: oblique;
+
+}
 
 
-<title> moi-meme </title>
-	<link rel="stylesheet" href="/css/bootstrap.min.css">
+.display-4 {
+	color: darkorange;
+	font-size: 62px;
+}
 
-    <link rel="stylesheet" type="text/css" href="newstyles.css">
 
+.lead {
+font-family: ABeeZee;
 
- </head>
-
-<body>
-
+}
 	
+.text-monospace{
+	color: #191970;
+	font-size: 20px;
+
+}
+
+#grand {
+	color: blue;
+}
+
+.text-center{
+	font-size: 50px;
+	color: brown;
+	font-family: Roboto;
+
+}
+
+.img-thumbnail{
+	border-radius: 50%;
+}
 
 
-
-
-
-
-<script> </script>
-
-
-</body>
-
-
-
-
-
-</html>
